@@ -4,6 +4,7 @@ Go on your [Ngrok User Dashboard Auth section](https://dashboard.ngrok.com/auth)
 ```
 cd ngrok
 ./ngrok authtoken [PASTE YOUR TOKEN]
+authtoken:1p1ocoJKwlpZkU8zdsfYAjvbs7P_6aYWx22s9snL8ZQXsdV6S
 
 #Output >>
 Authtoken saved to configuration file: /app/.ngrok2/ngrok.yml
